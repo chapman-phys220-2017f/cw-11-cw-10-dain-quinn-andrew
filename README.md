@@ -1,8 +1,8 @@
 # PHYS220 CW 11 
 
-**Author(s):** **CHANGEME**
+**Author(s):** **Dain, Quinn, Andrew**
 
-[![Build Status](https://travis-ci.org/chapman-phys220-2017f/cw-11-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-phys220-2017f/cw-11-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-phys220-2017f/cw-11-cw-10-dain-quinn-andrew.svg?branch=master)](https://travis-ci.org/chapman-phys220-2017f/cw-11-cw-10-dain-quinn-andrew)
 
 ## Specification
 
@@ -70,4 +70,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+**Dain Miller**
