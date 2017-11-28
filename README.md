@@ -59,7 +59,7 @@ In practice, the 4th-order Runge-Kutta method is the most popular method for sol
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**CHANGEME**
+The different methods for approximating derivatives were very interesting and useful depending on how accurate you have to be.
 
 ## Honor Pledge
 
@@ -70,4 +70,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**Dain Miller**
+**Dain Miller Quinn Gates Andrew Papilion**
